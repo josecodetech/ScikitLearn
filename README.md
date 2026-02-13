@@ -1,8 +1,8 @@
-# 🐍 Python Tips & Tricks — @JoseCodeTech
+# 🐍 Scikit Learn — @JoseCodeTech
 
 Repositorio oficial de la serie **Scikit Learn** de [@JoseCodeTech](https://www.youtube.com/@josecodetech).  
 Aquí encontrarás ejemplos cortos, sencillos y prácticos para aprender ciencia de datos.  
-📌 Nuevos tips se añaden cada semana junto con las publicaciones en YouTube y redes sociales.
+📌 Nuevos tips junto con las publicaciones en YouTube y redes sociales.
 
 ---
 
